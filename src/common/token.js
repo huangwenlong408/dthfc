@@ -1,0 +1,2 @@
+export const CesiumIonDefaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI1Y2Q3ZjE0My0zMWFiLTRkOTItOTc4Yi0xZTk2YjA2ZTdkNTMiLCJpZCI6NzUzNDksImlhdCI6MTYzODUyMDAwN30.kS4mngaB-C4DjlsiNmURCF0qRpCVcYmLi7LdDbcYWJg'
+export const TianDiTuToken = '031a74fbec550486b6fda32a2f911f1b'
