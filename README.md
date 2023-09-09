@@ -1,19 +1,12 @@
-# vue3-cesium-dthfc
-
-## Project setup
+# 建筑物单体化分层效果实现
+![分层效果](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7375cb1a4344430b98c66b84057b6829~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=1920&h=922&s=4771427&e=png&b=073a27)
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
