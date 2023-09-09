@@ -35,7 +35,6 @@ export default {
 };
 </script>
 <style>
-  @import url('cesium/widgets.css');
   html,
   body,
   #cesiumContainer {
